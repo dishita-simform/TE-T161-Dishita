@@ -1,1 +1,1 @@
-Hello from f3.txt in funtion branch
+Hello from f3.txt in function branch
